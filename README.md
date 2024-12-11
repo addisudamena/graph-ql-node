@@ -9,7 +9,7 @@ A GraphQL server for managing student data built with Express and `express-graph
 ## Quick Start
 1. Clone and install:
    ```bash
-   git clone https://github.com/your-username/your-repo.git && cd your-repo && npm install
+   git clone https://github.com/addisudamena/graph-ql-node.git && cd graph-ql-node && npm install
    ```
 2. Run the server:
    ```bash
